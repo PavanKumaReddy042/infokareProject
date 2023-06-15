@@ -1,0 +1,39 @@
+/* .button-input-container{
+    position: relative;
+    width: 100%;
+  }
+  .email{
+    width: 100%;
+    box-sizing: border-box;
+    
+    
+  }
+  .subscribe-btn{
+   position: absolute;
+   top:0;
+   right:0;
+   bottom: 0;
+   height: 100%;
+   border: none;
+   background-color: #0057fc;
+   cursor: pointer;
+   overflow: hidden;
+   color: white;
+    font-weight: bold;
+    border-radius: 7px;
+  }
+  
+  .subscribe-disable-btn{
+    position: absolute;
+    top:0;
+    right:0;
+    bottom: 0;
+    height: 100%;
+    border: none;
+  color: #000;
+    border: 1px solid #0057fc;
+    cursor: pointer;
+    overflow: hidden;
+    font-weight: bold;
+    border-radius: 7px;
+   } */
